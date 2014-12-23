@@ -4,7 +4,9 @@ import javax.swing.*;
 import java.awt.*;
 
 /**
- * Created by danakatz on 11/13/14.
+ * this game uses a six-deck shoe, 
+ * so each card may be played up to
+ * six times.
  */
 public class BlackJackCard extends ImageIcon {
     private int timesPlayed;
