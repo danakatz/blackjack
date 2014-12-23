@@ -3,8 +3,8 @@ package edu.uchicago.danakatz.blackjack;
 import javax.swing.*;
 
 /**
- * must be compiled from the command.
- * line to compile from an IDE,
+ * must be compiled from the command
+ * line. to compile from an IDE,
  * uncomment the alternate srcPath
  * in the initializeDeck() method
  * of the BlackJackFrame class
